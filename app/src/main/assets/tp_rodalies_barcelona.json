@@ -1,0 +1,219 @@
+{
+	"serviceDescription":"rodalies",
+	"serviceId":0,
+	"serviceLines":
+	[
+		{
+			"lineId":0,
+			"lineDescription":"R1",
+			"stations":
+			[
+				{ "commonName":"Molins de Rei", "hashValue":"b20e3f331491e49a851672d628e4ef8e" },
+				{ "commonName":"St. Feliu de Llobregat", "hashValue":"886811e0525d8591192cf196aa8f6e6b" },
+				{ "commonName":"St. Joan Despí", "hashValue":"501549d1f381783749856da32271bcde" },
+				{ "commonName":"Cornellà", "hashValue":"c95a348db59e09b7a551240e7bf8bbb3" },
+				{ "commonName":"L'Hospitalet de Llobregat", "hashValue":"d365ae2643569133d9d90e5a28e3dc6f" },
+				{ "commonName":"Barcelona Sants", "hashValue":"a147419c0f2f7e108436621dda67c1de" },
+				{ "commonName":"Barcelona Pl. de Catalunya", "hashValue":"bd5618b749111e868a274f3621b59018" },
+				{ "commonName":"Barcelona Arc de Triomf", "hashValue":"45457399d2160c266127ace2c0d86a06" },
+				{ "commonName":"Barcelona El Clot Aragó", "hashValue":"1d0a2234a7ef93652798247f9c995709" },
+				{ "commonName":"St. Adrià de Besòs", "hashValue":"567cb3b26b6b53aed8b60d907239e80d" },
+				{ "commonName":"Badalona", "hashValue":"8c61f09d14b6de8474d860951bd53c05" },
+				{ "commonName":"Montgat", "hashValue":"3158f90bdd44d3cdb2be5dd26ce1bdac" },
+				{ "commonName":"Montgat Nord", "hashValue":"84468caa92d1dc7d1b27b66a8db662eb" },
+				{ "commonName":"El Masnou", "hashValue":"2c2d159b040afed4deab71da9b2b98af" },
+				{ "commonName":"Ocata", "hashValue":"baba8cba1a3c4596919404471ad4d0d8" },
+				{ "commonName":"Premià de Mar", "hashValue":"3d317f9db28b45979b19aa1446cafbca" },
+				{ "commonName":"Vilassar de Mar", "hashValue":"919bf48fa843debfe966d961da81050" },
+				{ "commonName":"Cabrera de Mar", "hashValue":"10933b9abc4775e86e4a051315ed236" },
+				{ "commonName":"Mataró", "hashValue":"7e8ca2846bad6d897cdaa1bd0d1e6d3" },
+				{ "commonName":"St. Andreu de Llavaneres", "hashValue":"22eda091aba58af15cda6a9289b8bd5b" },
+				{ "commonName":"Caldes d'Estrac", "hashValue":"f1cb4dcf21f91ebe88ce87eeccc94d7e" },
+				{ "commonName":"Arenys de Mar", "hashValue":"d7d1e2d82af7dc11a4796ff1755cbfe3" },
+				{ "commonName":"Canet de Mar", "hashValue":"b0b487658294c9f94b767bae47ee2150" },
+				{ "commonName":"St. Pol de Mar", "hashValue":"832ec7aa1ce836f903d84069213d3402" },
+				{ "commonName":"Calella", "hashValue":"870d5f04984d6d8134c1e192aef14d83" },
+				{ "commonName":"Pineda de Mar", "hashValue":"81696742fa539a507ecf5f05c826b620" },
+				{ "commonName":"Santa Susanna", "hashValue":"56e9cee8bd6ccedeb32d98fc882f093d" },
+				{ "commonName":"Malgrat de Mar", "hashValue":"8c50d26f99dbff54942cf9efe26a479f" },
+				{ "commonName":"Blanes", "hashValue":"ab88ecfd2851d9eb2eabd1c81b2916c4" },
+				{ "commonName":"Tordera", "hashValue":"9a1df5c35a1b7ac4e0a9e5e9c8026525" },
+				{ "commonName":"Maçanet-Massanes", "hashValue":"e50ed8c950da52064cd34903e112f468" }
+			]
+		},
+			
+		{
+			"lineId":1,
+			"lineDescription":"R2 Nord",
+			"stations":
+			[
+				{ "commonName":"Aeroport", "hashValue":"6d9e283b55c6c94dbe6afdb690c4179c" },
+				{ "commonName":"El Prat de Llobregat", "hashValue":"fd6f9216d3ee0de6e9180812cda873fc" },
+				{ "commonName":"Bellvitge", "hashValue":"609ab099866dfe9e0e198c571122ac63" },
+				{ "commonName":"Barcelona Sants", "hashValue":"a147419c0f2f7e108436621dda67c1de" },
+				{ "commonName":"Barcelona Pg. de Gràcia", "hashValue":"c66321e718499203dbc341a9b9a7084b" },
+				{ "commonName":"Barcelona El Clot Aragó", "hashValue":"1d0a2234a7ef93652798247f9c995709" },
+				{ "commonName":"Barcelona St. Andreu Comtal", "hashValue":"e5aa501ba9d747ff6aef6efe9c35fac7" },
+				{ "commonName":"Montcada i Reixac", "hashValue":"ddb0e37b3ad9d5e95a17ac977c36b75b" },
+				{ "commonName":"La Llagosta", "hashValue":"448334fd87e41f7c773514444c77033d" },
+				{ "commonName":"Mollet-St. Frost", "hashValue":"7b6b22f71f75ab15af64e7a7afa2d1ec" },
+				{ "commonName":"Montmeló", "hashValue":"e3843686f6a8baf89d6555d13af60453" },
+				{ "commonName":"Granollers Centre", "hashValue":"7c67a389928b347b37d0a9dac4b89c5e" },
+				{ "commonName":"Les Franqueses-Granollers Nord", "hashValue":"e5a2de5ca59b20cef3ac17c7ba4a0ce3" },
+				{ "commonName":"Cardedeu", "hashValue":"f007a8e3e06fa9ba7622795ea4a673fb" },
+				{ "commonName":"Llinars del Vallès", "hashValue":"8b8e08455078a1966a816323bfd9518" },
+				{ "commonName":"Palautordera", "hashValue":"3cb245acd6ecceb079d17ed3f5eb71cc" },
+				{ "commonName":"Sant Celoni", "hashValue":"c423044756ca9d69d6ea3f741cd022f8" },
+				{ "commonName":"Gualba", "hashValue":"6f4ecb1fd1c40231567654e293863c18" },
+				{ "commonName":"Riells i Viabrea-Breda", "hashValue":"31fc0acc7808e5ccecc2ba9d6ffe0745" },
+				{ "commonName":"Hostalric", "hashValue":"3335ea5f83fa29d726e91351d7b45921" },
+				{ "commonName":"Maçanet-Massanes", "hashValue":"e50ed8c950da52064cd34903e112f468" }
+			]
+		},
+
+		{
+			"lineId":2,
+			"lineDescription":"R2 Sud",
+			"stations":
+			[
+				{ "commonName":"St. Vicenç de Calders", "hashValue":"6dd372f6c885c89aff55622a9c828975" },
+				{ "commonName":"Calafell", "hashValue":"30499eaf6e593c94684fa6a64265ae8a" },
+				{ "commonName":"Segur de Calafell", "hashValue":"4e3dc12a36acf8ac6961dc35b4af058d" },
+				{ "commonName":"Cunit", "hashValue":"59bd02ca12a84583e0a5fadb0580fb8b" },
+				{ "commonName":"Cubelles", "hashValue":"3a1ba0a521d782fbf6b164737213e020" },
+				{ "commonName":"Vilanova i la Geltrú", "hashValue":"79380b19a6bbba7e8f779cc4abe3bd6f" },
+				{ "commonName":"Sitges", "hashValue":"712353ad7d66e08ff50ac76b38a3913f" },
+				{ "commonName":"Garraf", "hashValue":"ff56c9ee057c1fba7078f2a22dcae7f2" },
+				{ "commonName":"Platja de Castelldefels", "hashValue":"aef1828b1a58906fda5fb6978f55f95f" },
+				{ "commonName":"Castelldefels", "hashValue":"536af57982f06dc0a2010c62467545d7" },
+				{ "commonName":"Gavà", "hashValue":"483212a7504d62ec5fbecfb38dd2b2d3" },
+				{ "commonName":"Viladecans", "hashValue":"290e9a00a2e714eee15588aae15aebd2" },
+				{ "commonName":"El Prat de Llobregat", "hashValue":"fd6f9216d3ee0de6e9180812cda873fc" },
+				{ "commonName":"Bellvitge", "hashValue":"609ab099866dfe9e0e198c571122ac63" },
+				{ "commonName":"Barcelona Sants", "hashValue":"a147419c0f2f7e108436621dda67c1de" },
+				{ "commonName":"Barcelona Pg. de Gràcia", "hashValue":"c66321e718499203dbc341a9b9a7084b" },
+				{ "commonName":"Barcelona Estació de França", "hashValue":"f8a620b64f28b60a4e94407acf627c72" }
+			]
+		},
+
+		{
+			"lineId":3,
+			"lineDescription":"R3",
+			"stations":
+			[
+				{ "commonName":"L'Hospitalet de Llobregat", "hashValue":"d365ae2643569133d9d90e5a28e3dc6f" },
+				{ "commonName":"Barcelona Sants", "hashValue":"a147419c0f2f7e108436621dda67c1de" },
+				{ "commonName":"Barcelona Pl. de Catalunya", "hashValue":"bd5618b749111e868a274f3621b59018" },
+				{ "commonName":"Barcelona Arc de Triomf", "hashValue":"45457399d2160c266127ace2c0d86a06" },
+				{ "commonName":"Barcelona St. Andreu Arenal", "hashValue":"788e7037abb83fe407be812889561669" },
+				{ "commonName":"Barcelona Torre del Baró", "hashValue":"5afaa958eb1cdc499b23c0c7f402ca27" },
+				{ "commonName":"Montcada Bifurcació", "hashValue":"41edeb709334ab81b1d4d6c7e09570a8" },
+				{ "commonName":"Montcada Ripollet", "hashValue":"8d8e9878628a913beb1feec72b0a37b3" },
+				{ "commonName":"Sta. Perpètua de Mogoda", "hashValue":"8b3e61f2c0ef23875c0020cc21ba3cb5" },
+				{ "commonName":"Mollet Sta. Rosa", "hashValue":"5521004d25497b9e717ea7d48bef1dd1" },
+				{ "commonName":"Parets del Vallès", "hashValue":"2505da90c5b09e0e5c11c26b751fdc75" },
+				{ "commonName":"Granollers Canovelles", "hashValue":"180f4682806e3df26db81c83bb77de52" },
+				{ "commonName":"Les Franqueses del Vallès", "hashValue":"1b9c7a54aa7bb125ddd3318d1903cd36" },
+				{ "commonName":"La Garriga", "hashValue":"c545560a468f5b7be001177d2f3d4ca7" },
+				{ "commonName":"Figaró", "hashValue":"6cb4e185d56b91c6e56231702f3f3233" },
+				{ "commonName":"St. Martí de Centelles", "hashValue":"5d38a95d9be7ee11eeef56d80fab9182" },
+				{ "commonName":"Centelles", "hashValue":"6a380b43fb66aa92fb39350dd876e491" },
+				{ "commonName":"Balenyà-Els Hostalets", "hashValue":"5aa25526caec7374d982af36bf20b461" },
+				{ "commonName":"Balenyà-Tona Seva", "hashValue":"358d4907eed796d952ba0c1b0c07be9" },
+				{ "commonName":"Vic", "hashValue":"e332236176230bbcc9c6e00905bb4322" },
+				{ "commonName":"Manlleu", "hashValue":"8113332e390bf1ef616234b24c4499e" },
+				{ "commonName":"Torelló", "hashValue":"d90afb7d6ff620096991a3b46d606564" },
+				{ "commonName":"Borgonyà", "hashValue":"abf5a54b131c1f39f4bd68911fa054d5" },
+				{ "commonName":"St. Quirze de Basora", "hashValue":"d661406b3df22f195ff05cc66be73a89" },
+				{ "commonName":"La Farga de Bebié", "hashValue":"698ff5230b80820c9ebe9971c5b38066" },
+				{ "commonName":"Ripoll", "hashValue":"970a87db572405e4084391e808ac24ad" },
+				{ "commonName":"Campdevànol", "hashValue":"f4a52936d51dc8272db58b450268ed96" },
+				{ "commonName":"Ribes de Freser", "hashValue":"d1f6cfd2ceb81377c6768b0d44b3b54a" },
+				{ "commonName":"Planoles", "hashValue":"2668672ff036a1bb8e433769765a8b85" },
+				{ "commonName":"Toses", "hashValue":"182cbb324dcf5aba9f308696968e3aca" },
+				{ "commonName":"La Molina", "hashValue":"8d9fc78b8635f10b6c9b22967b8262c2" },
+				{ "commonName":"Urtx Alp", "hashValue":"940f7dc2d78ba998ddc9846229e167df" },
+				{ "commonName":"Puigcerdà", "hashValue":"9026ed224dd428c633c879ea11c50a9f" },
+				{ "commonName":"La Tor de Querol", "hashValue":"fd633eabf25d2a6b2faf1ea0339cec0d" }
+			]
+		},
+
+		{
+			"lineId":4,
+			"lineDescription":"R4",
+			"stations":
+			[
+				{ "commonName":"St. Vicenç de Calders", "hashValue":"6dd372f6c885c89aff55622a9c828975" },
+				{ "commonName":"El Vendrell", "hashValue":"6776aa6d24e74d3bd2249b26cb6be9c1" },
+				{ "commonName":"L'Arboç", "hashValue":"4eee3bb767ffe5c29012dbc934b64dfa" },
+				{ "commonName":"Els Monjos", "hashValue":"cf6b179c229f74f882a5910ec829eba9" },
+				{ "commonName":"Vilafranca del Penedès", "hashValue":"74a286a29e5b3236599a72d940266a33" },
+				{ "commonName":"La Granada", "hashValue":"9e073a5ec0a77d46338e00970b61d282" },
+				{ "commonName":"Lavern Subirats", "hashValue":"2921b388d51820b486fda728348a5734" },
+				{ "commonName":"St. Sadurní d'Anoia", "hashValue":"78f5811c2dce2d289953cb0bb8bcc70" },
+				{ "commonName":"Gelida", "hashValue":"6d0370e10eec194d683f5640cbda0d21" },
+				{ "commonName":"Martorell", "hashValue":"bfdd27798f069ff22e310b4d7c804653" },
+				{ "commonName":"Castellbisbal", "hashValue":"2cb288f35634e648459c3f914030c5e" },
+				{ "commonName":"El Papiol", "hashValue":"c9f7674c1d34d55c8d123faf847c1883" },
+				{ "commonName":"Molins de Rei", "hashValue":"b20e3f331491e49a851672d628e4ef8e" },
+				{ "commonName":"St. Feliu de Llobregat", "hashValue":"886811e0525d8591192cf196aa8f6e6b" },
+				{ "commonName":"St. Joan Despí", "hashValue":"501549d1f381783749856da32271bcde" },
+				{ "commonName":"Cornellà", "hashValue":"c95a348db59e09b7a551240e7bf8bbb3" },
+				{ "commonName":"L'Hospitalet de Llobregat", "hashValue":"d365ae2643569133d9d90e5a28e3dc6f" },
+				{ "commonName":"Barcelona Sants", "hashValue":"a147419c0f2f7e108436621dda67c1de" },
+				{ "commonName":"Barcelona Pl. de Catalunya", "hashValue":"bd5618b749111e868a274f3621b59018" },
+				{ "commonName":"Barcelona Arc de Triomf", "hashValue":"45457399d2160c266127ace2c0d86a06" },
+				{ "commonName":"Barcelona St. Andreu Arenal", "hashValue":"788e7037abb83fe407be812889561669" },
+				{ "commonName":"Barcelona Torre del Baró", "hashValue":"5afaa958eb1cdc499b23c0c7f402ca27" },
+				{ "commonName":"Montcada Bifurcació", "hashValue":"41edeb709334ab81b1d4d6c7e09570a8" },
+				{ "commonName":"Montcada i Reixac-Manresa", "hashValue":"96ac28e548c6d8e4a5fd483294515e7c" },
+				{ "commonName":"Montcada i Reixac-Sta. Maria", "hashValue":"1b3f27a9b239d16768b816806743742c" },
+				{ "commonName":"Cerdanyola del Vallès", "hashValue":"765d1fbc0cc306a45b95735b0128d2cd" },
+				{ "commonName":"Barberà del Vallès", "hashValue":"be9fb2521869933451322966cb633d52" },
+				{ "commonName":"Sabadell Sud", "hashValue":"9b1e0b05f3bc60786982e457e994204b" },
+				{ "commonName":"Sabadell Centre", "hashValue":"d2e2d09c662b3a40057852d44298d4b3" },
+				{ "commonName":"Sabadell Nord", "hashValue":"494c5035b41b3f90a0f0defba160b64e" },
+				{ "commonName":"Terrassa Est", "hashValue":"215db472ee8ea9ee95e5895a71b80c3d" },
+				{ "commonName":"Terrassa", "hashValue":"1ba9d9d1a7dd59f2f227aec8d5a86e38" },
+				{ "commonName":"St. Miquel G. Viladecavalls", "hashValue":"632e30ac3672de9f443336a28b41031f" },
+				{ "commonName":"Viladecavalls", "hashValue":"1afe07ea6fc52153e9668d6ada09220d" },
+				{ "commonName":"Vacarisses Torreblanca", "hashValue":"2f215f2f0840ac64bbfc468bf397ea04" },
+				{ "commonName":"Vacarisses", "hashValue":"43920bd46944cc333c33472948ba1fb7" },
+				{ "commonName":"Castellbell i el Vilar-Monistrol", "hashValue":"6ea88dbe6960cef33b9a96cecd91e3b6" },
+				{ "commonName":"St. Vicenç de Castellet", "hashValue":"9e96a862e58b4991804b07c14039d8db" },
+				{ "commonName":"Manresa", "hashValue":"cd75cc3ce149759472fd2f996162ffe5" }
+			]
+		},
+
+		{
+			"lineId":5,
+			"lineDescription":"R7",
+			"stations":
+			[
+				{ "commonName":"Barcelona St. Andreu Arenal", "hashValue":"788e7037abb83fe407be812889561669" },
+				{ "commonName":"Barcelona Torre del Baró", "hashValue":"5afaa958eb1cdc499b23c0c7f402ca27" },
+				{ "commonName":"Montcada Bifurcació", "hashValue":"41edeb709334ab81b1d4d6c7e09570a8" },
+				{ "commonName":"Montcada i Reixac-Manresa", "hashValue":"96ac28e548c6d8e4a5fd483294515e7c" },
+				{ "commonName":"Montcada i Reixac-Sta. Maria", "hashValue":"1b3f27a9b239d16768b816806743742c" },
+				{ "commonName":"Cerdanyola del Vallès", "hashValue":"765d1fbc0cc306a45b95735b0128d2cd" },
+				{ "commonName":"Cerdanyola Universitat", "hashValue":"4ec6f5a26e5f5ff1911e4c9949d9dd3b" }
+			]
+		},
+
+		{
+			"lineId":6,
+			"lineDescription":"R8",
+			"stations":
+			[
+				{ "commonName":"Martorell", "hashValue":"bfdd27798f069ff22e310b4d7c804653" },
+				{ "commonName":"Castellbisbal", "hashValue":"2cb288f35634e648459c3f914030c5e" },
+				{ "commonName":"Rubí", "hashValue":"1f5d538827072bd13c454a5bf379c82a" },
+				{ "commonName":"St. Cugat del Vallès", "hashValue":"e9eb9f58bd801c6deb097e57effc529d" },
+				{ "commonName":"Cerdanyola Universitat", "hashValue":"4ec6f5a26e5f5ff1911e4c9949d9dd3b" },
+				{ "commonName":"Mollet-St. Frost", "hashValue":"7b6b22f71f75ab15af64e7a7afa2d1ec" },
+				{ "commonName":"Montmeló", "hashValue":"e3843686f6a8baf89d6555d13af60453" },
+				{ "commonName":"Granollers Centre", "hashValue":"7c67a389928b347b37d0a9dac4b89c5e" }
+			]
+		}
+	]
+}
